@@ -15,7 +15,6 @@ Soy una estudiante mexicana en la carrera de Ingeniería en Tecnologías Computa
 1. Creación de una aplicación móvil enfocada a niños con parálisis cerebral para mejorar sus habilidades cognitivas y motoras.
 2. Desarrollo de tres niveles con minijuegos progresivamente desafiantes, centrándose en diferentes aspectos del desarrollo cognitivo y motor.
 3. Enfoque en actividades llamativas y sencillas para niños, con efectos y sonidos acorde a la tarea.
-- [Ver el proyecto aqui...](Video.mp4)
 
 # Habilidades
 **Lenguajes**
